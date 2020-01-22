@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739270940590",
+    "firebase_url": "https://fir-music-player-c387b.firebaseio.com",
+    "project_id": "fir-music-player-c387b",
+    "storage_bucket": "fir-music-player-c387b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739270940590:android:0c5f6a19d77d5a1f601a3f",
+        "android_client_info": {
+          "package_name": "com.developer.arsltech.firebasemusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739270940590-4mqqu8966bi75f7jk6e4kb5amf675a16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.arsltech.firebasemusicplayer",
+            "certificate_hash": "b46ae00ae99c2267dee25730c03379d631e5c44d"
+          }
+        },
+        {
+          "client_id": "739270940590-eilfoebde9d0tik91dcn1mticjp24pnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhj75YHF4rkyAMPqhJsVVlck26wS80eeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739270940590-eilfoebde9d0tik91dcn1mticjp24pnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
